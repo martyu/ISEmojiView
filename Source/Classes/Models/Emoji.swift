@@ -5,7 +5,7 @@
 //  Created by Beniamin Sarkisyan on 03/08/2018.
 //
 
-import Foundation
+import UIKit
 
 public class Emoji: Codable {
     

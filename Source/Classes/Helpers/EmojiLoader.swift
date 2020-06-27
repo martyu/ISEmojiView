@@ -5,7 +5,7 @@
 //  Created by Beniamin Sarkisyan on 01/08/2018.
 //
 
-import Foundation
+import UIKit
 
 final public class EmojiLoader {
     

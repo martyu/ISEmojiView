@@ -5,7 +5,7 @@
 //  Created by Beniamin Sarkisyan on 01/08/2018.
 //
 
-import Foundation
+import UIKit
 
 private let HighlightedBackgroundViewSize = CGFloat(30)
 private let ImageActiveTintColor = UIColor(red: 95/255, green: 94/255, blue: 95/255, alpha: 1)

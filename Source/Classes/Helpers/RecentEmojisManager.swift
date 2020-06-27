@@ -5,7 +5,7 @@
 //  Created by Beniamin Sarkisyan on 01/08/2018.
 //
 
-import Foundation
+import UIKit
 
 private let recentEmojisKey = "ISEmojiView.recent"
 private let recentEmojisFreqStorageKey = "ISEmojiView.recent-freq"

@@ -5,7 +5,7 @@
 //  Created by Beniamin Sarkisyan on 01/08/2018.
 //
 
-import Foundation
+import UIKit
 
 /// emoji view action callback delegate
 internal protocol EmojiCollectionViewDelegate: class {
